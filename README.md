@@ -1,5 +1,11 @@
 # ML Hackathon Team 6 - Hangman AI Agent
 
+## Team Members
+- Vrishant Bhalla: PES12UG23CS706
+- Vishnu Teja: PES12UG23CS698
+- Vishwambhara R Hebbalalu: PES12UG23CS700
+- Vivek Bhat: PES12UG23CS703
+
 This repository contains a Jupyter Notebook (`MLHackathon_Team6_5L.ipynb`) that implements a hybrid AI agent for playing the game of Hangman. The agent combines Hidden Markov Model (HMM) probabilities for letter positioning with Q-Learning reinforcement learning to make intelligent guesses.
 
 ## Overview
